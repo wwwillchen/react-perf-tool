@@ -1,0 +1,14 @@
+{
+  "name": "react-perf-tool",
+  "version": "0.1.0",
+  "description": "Chrome DevTools extension for analyzing React app performance issues",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/react": "^15.0.27"
+  }
+}
