@@ -1,5 +1,7 @@
 # React Perf Tool
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wwwillchen/react-perf-tool.svg)](https://greenkeeper.io/)
+
 A Chrome DevTools extension to analyze the performance of your React app.
 
 ## Pre-req
