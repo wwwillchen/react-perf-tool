@@ -5,12 +5,13 @@
   "main": " ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ts": "tsc -p .",
+    "ts": "./node_modules/.bin/tsc -p .",
     "ts:watch": "yarn ts -- -w"
   },
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@types/react": "^15.0.27"
+    "@types/react": "^15.0.27",
+    "typescript": "^2.3.4"
   }
 }
